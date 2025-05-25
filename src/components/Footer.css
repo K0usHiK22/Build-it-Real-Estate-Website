@@ -1,0 +1,25 @@
+@media (max-width: 640px) {
+    .footer-layout {
+      flex-direction: row !important;
+    }
+  }
+
+@media (max-width: 425px) {
+    .footer-layout {
+      flex-direction: column !important;
+      align-items: center !important;
+      text-align: center !important;
+
+    }
+    .footer-layout div {
+        align-items: center !important;
+        justify-content: center !important;
+      }
+    
+      .footer-layout ul {
+        justify-content: center !important;
+      }
+    
+}
+
+

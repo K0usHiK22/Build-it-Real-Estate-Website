@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+:root{
+    --mobileNavbar-bg: #cfcdcb;
+    --about-page-bg: #ebe5dd;
+    --Project-page-bg: #f4f1ec;
+    --Reviews-page-bg: #14d634;
+    --Reviews-text-color: #1a1b1a;
+    --cards-bg: #b1bba836;
+    --subHeading-text-color: #1d1d1c;
+    --Project-arrow: #cfcdcb;
+    --Contactus-page-bg: #f4f1ec;
+    --footer-bg:#101111;
+    --footer-text-color:#d3d2cf;
+    --contactus-bg-color:#f5f5ee;
+    --signup-bg-color:#f5f5ee;
+}
