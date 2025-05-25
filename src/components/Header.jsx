@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from "react"
 import { files } from "../assets/assets"
-import Navbar from "./navbar"
+import Navbar from "./Navbar"
 import { motion } from "motion/react"
 
 
