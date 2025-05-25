@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Data } from "../assets/assets";
-import Projects from "./projects";
+import Projects from "./Projects";
 
 const CardSliderLogic = () => {
     const [currentIndex, setCurrentindex] = useState(0);
