@@ -49,16 +49,4 @@ This project is a real estate website designed to showcase various properties an
 ## Deployment
 
 - The project is deployed on Netlify with GitHub continuous deployment enabled.  
-- Pushing updates to GitHub automatically triggers a new build and deploy.  
-
-## Future Improvements
-
-- Complete AI chatbot integration and improve interaction  
-- Add form submission handling with backend API  
-- Enhance accessibility compliance  
-- Add unit and integration tests for components  
-
-## Known Issues
-
-- AI Chatbot is not fully functional yet  
-- Minor layout tweaks needed on some screen sizes  
+- Pushing updates to GitHub automatically triggers a new build and deploy.   
